@@ -450,7 +450,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Planck48.kicad_pro",
+    "filename": "Plain48.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -616,6 +616,10 @@
     [
       "c990fd19-be40-4dc1-9d47-2f4223211b91",
       "matrix"
+    ],
+    [
+      "cc432efd-d6cf-4307-af4a-e4d8ffc5053b",
+      "mount"
     ]
   ],
   "text_variables": {}
