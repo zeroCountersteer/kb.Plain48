@@ -4,6 +4,10 @@
 	(generator_version "9.0")
 	(uuid "caa2ef47-4d96-4c38-9c87-39ae0d717482")
 	(paper "A4")
+	(title_block
+		(title "Plain 48")
+		(company "Zero.countersteer")
+	)
 	(lib_symbols
 		(symbol "MCU_Module:RaspberryPi_Pico_Debug"
 			(pin_names
@@ -1182,7 +1186,7 @@
 	)
 	(global_label "Col10"
 		(shape input)
-		(at 149.86 92.71 0)
+		(at 163.83 86.36 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1192,7 +1196,7 @@
 		)
 		(uuid "048f00a9-8e3a-47f7-86b4-86d8d21448f0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 158.3484 92.71 0)
+			(at 172.3184 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1204,7 +1208,7 @@
 	)
 	(global_label "Col12"
 		(shape input)
-		(at 149.86 97.79 0)
+		(at 163.83 91.44 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1214,7 +1218,7 @@
 		)
 		(uuid "1238d009-bae4-40c0-9e67-ec44b5debec8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 158.3484 97.79 0)
+			(at 172.3184 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1226,7 +1230,7 @@
 	)
 	(global_label "Col1"
 		(shape input)
-		(at 104.14 82.55 180)
+		(at 118.11 76.2 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1236,7 +1240,7 @@
 		)
 		(uuid "164938f3-875f-4b20-800c-f93be1bc029f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 96.8611 82.55 0)
+			(at 110.8311 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1248,7 +1252,7 @@
 	)
 	(global_label "Col11"
 		(shape input)
-		(at 149.86 95.25 0)
+		(at 163.83 88.9 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1258,7 +1262,7 @@
 		)
 		(uuid "236ada61-01bc-4e43-b9fa-af20e8b1ec45")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 158.3484 95.25 0)
+			(at 172.3184 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1270,7 +1274,7 @@
 	)
 	(global_label "Row1"
 		(shape input)
-		(at 104.14 113.03 180)
+		(at 118.11 106.68 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1280,7 +1284,7 @@
 		)
 		(uuid "2c4ecd69-036e-48d2-b838-54d99c8f05b3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 96.1958 113.03 0)
+			(at 110.1658 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1292,7 +1296,7 @@
 	)
 	(global_label "Col4"
 		(shape input)
-		(at 104.14 90.17 180)
+		(at 118.11 83.82 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1302,7 +1306,7 @@
 		)
 		(uuid "4d3df97b-e7b7-4a39-9128-70a57fe6e634")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 96.8611 90.17 0)
+			(at 110.8311 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1314,7 +1318,7 @@
 	)
 	(global_label "Col3"
 		(shape input)
-		(at 104.14 87.63 180)
+		(at 118.11 81.28 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1324,7 +1328,7 @@
 		)
 		(uuid "5112064b-932c-4e00-a7aa-2f8bd9187a67")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 96.8611 87.63 0)
+			(at 110.8311 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1336,7 +1340,7 @@
 	)
 	(global_label "Row3"
 		(shape input)
-		(at 104.14 118.11 180)
+		(at 118.11 111.76 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1346,7 +1350,7 @@
 		)
 		(uuid "584231b5-9dbe-4061-b0ff-e5d3ef37c046")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 96.1958 118.11 0)
+			(at 110.1658 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1358,7 +1362,7 @@
 	)
 	(global_label "Col7"
 		(shape input)
-		(at 149.86 85.09 0)
+		(at 163.83 78.74 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1368,7 +1372,7 @@
 		)
 		(uuid "7106999e-230d-4e89-a47c-f2f8143997bc")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 157.1389 85.09 0)
+			(at 171.1089 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1380,7 +1384,7 @@
 	)
 	(global_label "Row2"
 		(shape input)
-		(at 104.14 115.57 180)
+		(at 118.11 109.22 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1390,7 +1394,7 @@
 		)
 		(uuid "7e47d637-2ef0-4c86-8297-f8a35ab6e5c3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 96.1958 115.57 0)
+			(at 110.1658 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1402,7 +1406,7 @@
 	)
 	(global_label "Col2"
 		(shape input)
-		(at 104.14 85.09 180)
+		(at 118.11 78.74 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1412,7 +1416,7 @@
 		)
 		(uuid "81dd2952-abcb-4cb4-9b45-48bf069f4c7e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 96.8611 85.09 0)
+			(at 110.8311 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1424,7 +1428,7 @@
 	)
 	(global_label "Col6"
 		(shape input)
-		(at 104.14 95.25 180)
+		(at 118.11 88.9 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1434,7 +1438,7 @@
 		)
 		(uuid "90bdbe1b-b73d-497f-994d-05c7ec07a44b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 96.8611 95.25 0)
+			(at 110.8311 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1446,7 +1450,7 @@
 	)
 	(global_label "Col8"
 		(shape input)
-		(at 149.86 87.63 0)
+		(at 163.83 81.28 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1456,7 +1460,7 @@
 		)
 		(uuid "a1a36e97-a269-43ab-9f29-17b113582bc7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 157.1389 87.63 0)
+			(at 171.1089 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1468,7 +1472,7 @@
 	)
 	(global_label "Col9"
 		(shape input)
-		(at 149.86 90.17 0)
+		(at 163.83 83.82 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1478,7 +1482,7 @@
 		)
 		(uuid "b9eff630-7942-4a9e-b7fb-91b6751fbe50")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 157.1389 90.17 0)
+			(at 171.1089 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1490,7 +1494,7 @@
 	)
 	(global_label "Row4"
 		(shape input)
-		(at 104.14 120.65 180)
+		(at 118.11 114.3 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1500,7 +1504,7 @@
 		)
 		(uuid "ebed2334-fb1a-481c-8969-2b864724a12c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 96.1958 120.65 0)
+			(at 110.1658 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1512,7 +1516,7 @@
 	)
 	(global_label "Col5"
 		(shape input)
-		(at 104.14 92.71 180)
+		(at 118.11 86.36 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1522,7 +1526,7 @@
 		)
 		(uuid "f271d16c-c1a5-4a19-b32e-976508558117")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 96.8611 92.71 0)
+			(at 110.8311 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1534,7 +1538,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 149.86 120.65 0)
+		(at 163.83 114.3 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1543,7 +1547,7 @@
 		(fields_autoplaced yes)
 		(uuid "34d86e7d-6cd1-43df-ba87-9e9eef79265e")
 		(property "Reference" "#PWR02"
-			(at 149.86 127 0)
+			(at 163.83 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1552,7 +1556,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 149.86 125.73 0)
+			(at 163.83 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1560,7 +1564,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 149.86 120.65 0)
+			(at 163.83 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1569,7 +1573,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 149.86 120.65 0)
+			(at 163.83 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1578,7 +1582,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 149.86 120.65 0)
+			(at 163.83 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1600,7 +1604,7 @@
 	)
 	(symbol
 		(lib_id "MCU_Module:RaspberryPi_Pico_Debug")
-		(at 127 97.79 0)
+		(at 140.97 91.44 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1609,7 +1613,7 @@
 		(fields_autoplaced yes)
 		(uuid "82ab4449-193a-4b99-bc41-7b41d0501eef")
 		(property "Reference" "A1"
-			(at 129.1433 132.08 0)
+			(at 143.1133 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1618,7 +1622,7 @@
 			)
 		)
 		(property "Value" "RaspberryPi_Pico"
-			(at 129.1433 134.62 0)
+			(at 143.1133 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1627,7 +1631,7 @@
 			)
 		)
 		(property "Footprint" "Module:RaspberryPi_Pico_SMD_HandSolder"
-			(at 127 144.78 0)
+			(at 140.97 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1636,7 +1640,7 @@
 			)
 		)
 		(property "Datasheet" "https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf"
-			(at 127 147.32 0)
+			(at 140.97 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1645,7 +1649,7 @@
 			)
 		)
 		(property "Description" "Versatile and inexpensive microcontroller module (with debug pins) powered by RP2040 dual-core Arm Cortex-M0+ processor up to 133 MHz, 264kB SRAM, 2MB QSPI flash; also supports Raspberry Pi Pico 2"
-			(at 127 149.86 0)
+			(at 140.97 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1793,7 +1797,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 127 133.35 0)
+		(at 140.97 127 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1802,7 +1806,7 @@
 		(fields_autoplaced yes)
 		(uuid "e3c1ee51-5637-4553-aed7-1de3e82313b9")
 		(property "Reference" "#PWR01"
-			(at 127 139.7 0)
+			(at 140.97 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1811,7 +1815,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 127 138.43 0)
+			(at 140.97 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1819,7 +1823,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 127 133.35 0)
+			(at 140.97 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1828,7 +1832,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 127 133.35 0)
+			(at 140.97 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1837,7 +1841,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 127 133.35 0)
+			(at 140.97 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1858,7 +1862,7 @@
 		)
 	)
 	(sheet
-		(at 33.02 152.4)
+		(at 46.99 146.05)
 		(size 24.13 19.05)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1874,7 +1878,7 @@
 		)
 		(uuid "c990fd19-be40-4dc1-9d47-2f4223211b91")
 		(property "Sheetname" "matrix"
-			(at 33.02 151.6884 0)
+			(at 46.99 145.3384 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1883,7 +1887,7 @@
 			)
 		)
 		(property "Sheetfile" "matrix.kicad_sch"
-			(at 33.02 172.0346 0)
+			(at 46.99 165.6846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1900,7 +1904,7 @@
 		)
 	)
 	(sheet
-		(at 63.5 152.4)
+		(at 77.47 146.05)
 		(size 21.59 19.05)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1916,7 +1920,7 @@
 		)
 		(uuid "cc432efd-d6cf-4307-af4a-e4d8ffc5053b")
 		(property "Sheetname" "mount"
-			(at 63.5 151.6884 0)
+			(at 77.47 145.3384 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1925,7 +1929,7 @@
 			)
 		)
 		(property "Sheetfile" "mount.kicad_sch"
-			(at 63.5 172.0346 0)
+			(at 77.47 165.6846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
